@@ -46,9 +46,9 @@ npm install
 ### 4. Configure Environment Variables
 Create a `.env` file in the root directory of the project and add your Supabase credentials:
 ```env
-VITE_SUPABASE_PROJECT_ID="your_project_id_here"
-VITE_SUPABASE_PUBLISHABLE_KEY="your_publishable_key_here"
-VITE_SUPABASE_URL="https://your_project_id_here.supabase.co"
+VITE_SUPABASE_PROJECT_ID="efmbfxoxzzjwfnotbtjk"
+VITE_SUPABASE_PUBLISHABLE_KEY="sb_publishable_BMc8YDPtdZcenqM5QMddbg_acJQ0RqK"
+VITE_SUPABASE_URL="https://efmbfxoxzzjwfnotbtjk.supabase.co"
 ```
 
 ### 5. Start the Development Server
